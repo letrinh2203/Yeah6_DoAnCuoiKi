@@ -1,0 +1,111 @@
+    body{
+        background: #c8f8fa;
+        background: url(https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/277779288_1886074491588985_7720752231941752153_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=0VCAO3n0RJQAX938sSS&_nc_ht=scontent.fsgn5-10.fna&oh=00_AT8R_5xRdRgJNztkilIJQbFSgvd6o_tChxA3UHpI-WDO-A&oe=624CC6DE);
+    }
+    .container{
+    width: 1000px;
+    margin: 0px auto;
+    }
+    main{
+        height:calc(100%);
+        width:calc(100%);
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        justify-content:center;
+    }
+    .content{
+        overflow:hidden;
+        background: coral;
+    }
+    .content-home{
+        background: coral;
+        height: 700px;
+
+    }
+    .row{
+        padding:0px 20px 0px;
+    }
+    .nameTeam{
+    text-transform: uppercase;
+    text-align: center;
+    font-family:Tahoma;
+    font-weight: bold;
+    font-size: 40px; 
+    color: #fff;
+    }
+    h4{
+        margin:5px; 
+        padding: 5px; 
+        background: #f4f4f4; 
+        color: #12b9f5; 
+        font-size: 20px;
+        border-top-left-radius: 20px;
+        border-bottom-right-radius: 10px;
+    }
+   
+    .col-sm-6{
+        padding: 10px;
+        position: relative;
+        background:#fff;
+        background-clip: content-box;
+        border-radius: 60px;
+    }
+    .col-sm-7 li{
+        list-style: none; 
+        padding: 5px 0px 0px 5px; 
+        font-size: 18px;
+    }
+    .col-sm-5{
+        padding: 10px 20px;
+    }
+    .imagestyle{
+        display: block;
+        float: right;
+        border-radius: 50%;
+        width: 170px;
+        height: 170px;
+        border: 1px solid #50d0ff;
+    }
+    
+    .follow-us li{ 
+        display:inline-block;
+        margin: 0px 5px 0px;
+
+    }
+    .fa-facebook{
+        font-size:20px;
+        color: blue;
+    }
+    .fa-instagram{
+        font-size:20px;
+        color: #DD2A7B ;
+    }
+    .fa-youtube-play{
+        font-size:24px;
+        color:red;
+    }
+    .header-area{
+        background: #222222;
+        height: 60px;
+        border: 3px solid coral;
+        padding: 5px 5px; 
+        margin: 0px auto;
+        position: relative;
+    }
+    .btn-info{
+        font-size: 18px;
+    }
+    .welcome{
+        position: absolute;
+        left: 0px;
+        font-size: 24px;
+        padding: 5px 15px 0px;
+        color: coral;
+        font-family: Comic Sans MS;
+    }
+    .right{
+        position: absolute;
+        right: 5px;
+        padding: 2px 0px 0px;
+    }

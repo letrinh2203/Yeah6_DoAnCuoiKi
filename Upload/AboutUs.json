@@ -1,0 +1,70 @@
+{
+        "information":[
+        {
+                "imageUrl": "01.jpg",
+                "name": "Nguyễn Thị Thùy Loan",
+                "mssv": "4501104128",
+                 "email": "thuyloan01112017@gmail.com",
+                "hobbies": "du lịch, nghe nhạc,...",
+                "facebook": "https://www.facebook.com",
+                "instagram":"https://www.facebook.com",
+                "youtube":"https://www.youtube.com/"
+
+        },
+        {
+                "imageUrl": "02.jpg",
+                "name": "Nguyễn Duy Nhất",
+                "mssv": "4501104164",
+                 "email": "duynhat02102001@gmail.com",
+                "hobbies": "nghe nhạc, chơi game, đá bóng,...",
+                "facebook": "https://www.facebook.com",
+                "instagram":"https://www.facebook.com",
+                "youtube":"https://www.youtube.com/"
+
+        },
+        {
+                "imageUrl": "03.jpg",
+                "name": "Nguyễn Thị Thùy Trang",
+                "mssv": "4501104248",
+                 "email": "4501104248@student.hcmue.edu.vn",
+                "hobbies": "chạy Deadline, đi phượt, chụp ảnh,...",
+                "facebook": "https://www.facebook.com",
+                "instagram":"https://www.facebook.com",
+                "youtube":"https://www.youtube.com/"
+
+        },
+        {
+                "imageUrl": "04.jpg",
+                "name": "Lê Ngô Tuyết Trinh",
+                "mssv": "42.01.101.165",
+                 "email": "letrinh2203@gmail.com",
+                "hobbies": "du lịch, đọc tiểu thuyết, giải toán,...",
+                "facebook": "https://www.facebook.com/bap.binbin",
+                "instagram":"https://www.facebook.com/bap.binbin",
+                "youtube":"https://www.youtube.com/"
+
+        },
+        {
+                "imageUrl": "05.jpg",
+                "name": "Lâm Ngọc Tú",
+                "mssv": "4501104266",
+                 "email": "4501104266@student.hcmue.edu.vn",
+                "hobbies": "nghe nhạc, đọc sách, xem phim, chơi game,...",
+                "facebook": "https://www.facebook.com",
+                "instagram":"https://www.facebook.com",
+                "youtube":"https://www.youtube.com/"
+
+        },
+        {
+                "imageUrl": "06.jpg",
+                "name": "Nguyễn Thị Hải Yến",
+                "mssv": "4501104288",
+                 "email": "4501104288@student.hcmue.edu.vn",
+                "hobbies": "chơi game, đọc sách,...",
+                "facebook": "https://www.facebook.com",
+                "instagram":"https://www.facebook.com",
+                "youtube":"https://www.youtube.com/"
+
+        }
+    ]
+}
